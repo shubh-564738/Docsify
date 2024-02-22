@@ -75,6 +75,7 @@ docsify --version
 ```bash
 docsify init ./docs
 ```
+![Screenshot from 2024-02-22 22-58-05](https://github.com/shubh-564738/Docsify/assets/155716163/5543ac52-d963-4d11-bc8e-37a88eac6bff)
 
 
 
