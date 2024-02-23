@@ -78,6 +78,20 @@ docsify init ./docs
 ![Screenshot from 2024-02-22 22-58-05](https://github.com/shubh-564738/Docsify/assets/155716163/5543ac52-d963-4d11-bc8e-37a88eac6bff)
 
 
+```
+If you want to preview your written content, run the below commands
+docsify serve
+```
+```
+It will run the local server as Docsify.
+http://localhost:3000
+```
+![Screenshot from 2024-02-22 23-05-15](https://github.com/shubh-564738/Docsify/assets/155716163/34130492-a56e-4737-a30e-c241ed9d9271)
+
+```
+Now you have successfully installed Docsify.
+``
+
 
 
 
