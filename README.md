@@ -90,7 +90,7 @@ http://localhost:3000
 
 ```
 Now you have successfully installed Docsify.
-``
+```
 
 
 
