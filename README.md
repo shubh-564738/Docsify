@@ -19,7 +19,7 @@ Docsify is an open-source, simple, and lightweight documentation generator.
 
 Step1- you have to install some important dependencies to run Docsify
 ```
-bash
+
 sudo apt update
 ```
 
@@ -57,15 +57,15 @@ To address all issues (including breaking changes), run:
   npm audit fix --force
 
 Run `npm audit` for details.
-```
+
 ![Screenshot from 2024-02-22 13-12-53](https://github.com/shubh-564738/Docsify/assets/155716163/ddb37406-f80d-41fd-91c7-e2a67577274c)
 
 
-```
-Step4- After installation, you can verify that Docsify has been installed correctly by checking its version
-```
 
-```bash
+Step4- After installation, you can verify that Docsify has been installed correctly by checking its version
+
+
+```
 docsify --version
 ```
 ![Screenshot from 2024-02-22 13-14-11](https://github.com/shubh-564738/Docsify/assets/155716163/1ba7b457-5d5c-4f02-89b4-f8a549885f8c)
