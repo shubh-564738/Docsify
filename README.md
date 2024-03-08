@@ -84,10 +84,10 @@ If you want to preview your written content, run the below commands
 ```
 docsify serve
 ```
-```
+
 It will run the local server as Docsify.
 http://localhost:3000
-```
+
 ![Screenshot from 2024-02-22 23-05-15](https://github.com/shubh-564738/Docsify/assets/155716163/34130492-a56e-4737-a30e-c241ed9d9271)
 
 
