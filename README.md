@@ -1,10 +1,10 @@
 # Docsify
 **What is Docsify?**
-```
+
 Docsify is an open-source, simple, and lightweight documentation generator.
-```
+
 **Features**
-```
+
 * No statically built html files
 * Simple and lightweight
 * Smart full-text search plugin
@@ -13,35 +13,36 @@ Docsify is an open-source, simple, and lightweight documentation generator.
 * Emoji support
 * Compatible with IE11
 * Support server-side rendering
-```
+  
 **Installation**
 
-```
+
 Step1- you have to install some important dependencies to run Docsify
 ```
-```bash
+bash
 sudo apt update
 ```
+
 ![Screenshot from 2024-02-22 13-05-36](https://github.com/shubh-564738/Docsify/assets/155716163/d64aecc0-dbc5-4053-a1b7-ab9d0aefc2f6)
 
 ![Screenshot from 2024-02-22 13-06-36](https://github.com/shubh-564738/Docsify/assets/155716163/81c2fc05-daf9-4bac-a723-b1c279e7e66d)
 
-```
+
 Step2- If you haven't installed Node.js and npm yet, you can do so by following these steps
-```
+
 ```bash
 sudo apt install nodejs npm
 ```
 ![Screenshot from 2024-02-22 13-08-56](https://github.com/shubh-564738/Docsify/assets/155716163/64db9fee-9f97-4ee6-b7b2-033e689c8c43)
 ![Screenshot from 2024-02-22 13-09-58](https://github.com/shubh-564738/Docsify/assets/155716163/9a405e0c-69b9-453d-9de6-57301d5e51ab)
 
-```
+
 Step3- Once you have Node.js and npm installed, you can use npm to install Docsify using the following command
-```
+
 ```bash
 sudo npm install -g docsify-cli
 ```
-```
+
 added 204 packages, and audited 205 packages in 18s
 
 16 packages are looking for funding
@@ -78,8 +79,9 @@ docsify init ./docs
 ![Screenshot from 2024-02-22 22-58-05](https://github.com/shubh-564738/Docsify/assets/155716163/5543ac52-d963-4d11-bc8e-37a88eac6bff)
 
 
-```
+
 If you want to preview your written content, run the below commands
+```
 docsify serve
 ```
 ```
@@ -88,9 +90,9 @@ http://localhost:3000
 ```
 ![Screenshot from 2024-02-22 23-05-15](https://github.com/shubh-564738/Docsify/assets/155716163/34130492-a56e-4737-a30e-c241ed9d9271)
 
-```
+
 Now you have successfully installed Docsify.
-```
+
 
 
 
