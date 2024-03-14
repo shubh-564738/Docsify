@@ -40,7 +40,7 @@ output-
 <br>
 
 **Step2-**
-1) First check node.js and npm in your machine
+1) First, check if Node.js and npm are installed on your machine.
 
 2) To check if Node.js is installed, type the following command 
 ```
@@ -50,7 +50,9 @@ This command will display the installed Node.js version if it is installed. If N
 <br>
 <br>
 <br>
-3) To check if npm is installed, type the following command 
+
+ 3) To check if npm is installed, type the following command
+    
 ```
 npm -v
 ```
