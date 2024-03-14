@@ -1,7 +1,7 @@
 # Docsify
 **What is Docsify?**
 
-Docsify is an open-source, simple, and lightweight documentation generator.
+Docsify is an open-source, simple, and lightweight documentation generator utilizing Markdown files to create customizable websites,ideal for technical documentation,project wikis, and knowledge bases.
 
 <br>
 <br>
@@ -25,7 +25,7 @@ Docsify is an open-source, simple, and lightweight documentation generator.
 <br>
 
 **Step1-** 
-you have to install some important dependencies to run Docsify
+you have to install some important dependencies to run Docsify.
 ```
 sudo apt update
 ```
@@ -40,6 +40,8 @@ output-
 <br>
 
 **Step2-**
+First check node.js and npm in your machine
+
 If you haven't installed Node.js and npm yet, you can do so by following these steps
 
 ```bash
@@ -127,7 +129,7 @@ output-
 <br>
 <br>
 
-**Now you have successfully installed Docsify.**
+**Congratulations! Now you have successfully installed Docsify.**
 
 
 
