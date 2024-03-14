@@ -1,7 +1,7 @@
 # Docsify
 **What is Docsify?**
 
-Docsify is an open-source, simple, and lightweight documentation generator utilizing Markdown files to create customizable websites,ideal for technical documentation,project wikis, and knowledge bases.
+Docsify is an open-source, simple, and lightweight documentation generator that utilizes Markdown files to create customizable websites. It is ideal for technical documentation, project wikis, and knowledge bases.
 
 <br>
 <br>
@@ -41,6 +41,23 @@ output-
 
 **Step2-**
 First check node.js and npm in your machine
+
+To check if Node.js is installed, type the following command 
+```
+node -v
+```
+This command will display the installed Node.js version if it is installed. If Node.js is not installed, you will see an error message.
+<br>
+<br>
+<br>
+To check if npm is installed, type the following command 
+```
+npm -v
+```
+This command will display the installed npm version if it is installed. If npm is not installed, you will see an error message.
+<br>
+<br>
+<br>
 
 If you haven't installed Node.js and npm yet, you can do so by following these steps
 
