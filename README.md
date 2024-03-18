@@ -8,8 +8,8 @@
 
 * [What is Docsify](#What-is-Docsify)
 * [Features](#Features)
-* Installation
-* Initialised
+* [Installation](#Installation)
+* [Initialised](#Initialised)
 <br>
 <br>
 
@@ -34,7 +34,7 @@ Docsify is an open-source, simple, and lightweight documentation generator that 
 <br>
 <br>
   
-**Installation**
+# Installation
 
 <br>
 
@@ -229,7 +229,7 @@ docsify-cli version:
 <br>
 <br>
 
-**Initialised**
+# Initialised
 
 
 ```bash
