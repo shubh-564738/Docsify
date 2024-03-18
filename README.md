@@ -7,7 +7,7 @@
 
 
 * [What is Docsify](#What-is-Docsify)
-* Features
+* [Features](#Features)
 * Installation
 * Initialised
 <br>
@@ -20,7 +20,7 @@ Docsify is an open-source, simple, and lightweight documentation generator that 
 <br>
 <br>
 
-**Features**
+# Features
 
 * No statically built html files
 * Simple and lightweight
