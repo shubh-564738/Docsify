@@ -6,14 +6,14 @@
 **Table of content**
 
 
-* What is Docsify
+* [What is Docsify](#What-is-Docsify)
 * Features
 * Installation
 * Initialised
 <br>
 <br>
 
-**What is Docsify?**
+# What is Docsify?
 
 Docsify is an open-source, simple, and lightweight documentation generator that utilizes Markdown files to create customizable websites. It is ideal for technical documentation, project wikis, and knowledge bases.
 
