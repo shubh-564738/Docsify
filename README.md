@@ -10,6 +10,7 @@
 * [Features](#Features)
 * [Installation](#Installation)
 * [Initialised](#Initialised)
+* [Refrence](#Refrence)
 <br>
 <br>
 
@@ -283,7 +284,7 @@ https://opensource.com/article/20/7/docsify-github-pages
 <br>
 https://www.freecodecamp.org/news/how-to-write-good-documentation-with-docsify/
 <br>
-https://www.freecodecamp.org/news/how-to-write-good-documentation-with-docsify/
+https://github.com/docsifyjs/docsify/
 
 
 
